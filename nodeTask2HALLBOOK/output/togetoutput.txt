@@ -1,1 +1,9 @@
-
+   1.to create a room
+   http://localhost:3000/createRoom/:id/:roomName/:seatsAvailable/:amenities/:price_per_hr   
+   
+   2.to book a room
+   http://localhost:3000/
+   
+   3.to showrooms
+   http://localhost:3000/showRooms
+   
